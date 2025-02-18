@@ -131,7 +131,7 @@ return [
     |--------------------------------------------------------------------------
     |
     */
-    'google_map_key' => env('GOOGLE_MAP_KEY', 'AIzaSyDEJDgq3e-gwA12FGApINaTUAOt-pS2txQ'),
+    'google_map_key' => env('GOOGLE_MAP_KEY'),
 
     /*
     |--------------------------------------------------------------------------
