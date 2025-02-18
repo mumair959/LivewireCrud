@@ -1,0 +1,7 @@
+body {
+    direction: ltr;
+}
+
+.pull-right{
+    float: right;
+}

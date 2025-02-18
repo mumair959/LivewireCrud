@@ -1,0 +1,7 @@
+body {
+    direction: rtl;
+}
+
+.pull-right{
+    float: left;
+}
